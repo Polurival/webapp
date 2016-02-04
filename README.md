@@ -22,4 +22,4 @@ Java Web Online Project
     -  <a href="https://blog.interlinked.org/tutorials/git.html">Git Overview</a>
     -  <a href="http://geekbrains.ru/gitstart">Видеокурс по Git</a>
 
-"# webapp" 
+P.S. При необходимости добавить папку storage (webapp/storage) для получения файлов резюме.
